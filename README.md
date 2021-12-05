@@ -1,5 +1,4 @@
 # docker-kafka
-Small set up of a Kafka on docker
 
 docker-compose up
 
